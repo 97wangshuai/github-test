@@ -1,0 +1,24 @@
+重启tuxedo:
+1.tmshutdown -w1 -yc ; tmboot –y;
+
+h2调用
+testuip项目 ClientForUIP4HLJ.java
+
+联通vpn  https://202.99.45.105/por/login_psw.csp
+河南https://202.99.45.177/por/login_psw.csp
+e侧控制台http://132.35.87.203:28110/console/login/LoginForm.jsp
+北京http://132.80.241.212:6101/console/login/LoginForm.jsp
+辽宁http://132.194.33.9:28440/console/console.portal?_nfpb=true&_pageLabel=CoreServerServerTablePage&handle=com.bea.console.handles.JMXHandle%28%22com.bea%3AName%3Duipdomain%2CType%3DDomain%22%29
+黑龙江http://133.224.202.168:27001/console/console.portal?_nfpb=true&_pageLabel=HomePage1
+山东http://134.32.30.101:28146/console/console.portal?_nfpb=true&_pageLabel=CoreServerServerTablePage
+北京ibosshttp://132.80.241.212:8181/
+山东ibosshttp://134.32.30.103:26440/console/login/LoginForm.jsp
+山东103http://134.32.30.103:28145/console/console.portal?_nfpb=true&_pageLabel=HomePage1
+
+http://www.funtl.com 博客
+https://mvnrepository.com/ maven仓库
+https://hub.docker.com/   docker仓库
+https://github.com/apache/incubator-dubbo-admin
+http://idea.lanyus.com/           idea注册码
+https://osplat.asiainfo.com/OMSTimeSheet/  外包系统
+https://leetcode-cn.com/problemset/all/ 力扣
